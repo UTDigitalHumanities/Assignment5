@@ -1,0 +1,64 @@
+---
+title: "Problem Set 5"
+output: html_notebook
+---
+
+
+1. Choose any dataset we've worked with so far this semester. Copy the data file into your assignment 5 folder.
+
+2. Load your dataset into R, and print it.
+```{r}
+
+```
+
+3. In the space below, explain what each column of the dataset represents, and what kinds of values it has. 
+
+
+4. Make sure your understanding of the class/type of each column (character, numeric...) aligns with what R says. If any need converting (character to numeric being the mostly likely), do so below.
+```{r}
+
+```
+
+
+5. In the space below, give four questions you would want to ask of this data. What relationships do you want to explore? At least one of these should involve a value that is not already provided in the dataset (for example, when we were working with Kickstarter data we calculated the average contribution amount from the total money raised and the number of backers).
+ * 
+ * 
+ *
+ *
+ 
+# Investigations
+In the section that follows, you'll be addressing (or working toward an answer to) three of your four questions. What you produce for each question is up to you, however you must at some point in the problem set use the following concepts at least once:
+
+ * Combining plots (multiple plots output at onces, like we did with the year & average Kickstarter contribution)
+ * Aggregation (using for loops to aggregate continuous data across categorial variables)
+ * Applying Functions (such as "sum" or "paste" across columns or rows)
+ * Scatter Plots
+
+ 
+## Investigation 1
+ 
+1. In the space below, break your first question down into smaller steps. Write in pseudo-code and English rather than actual code. 
+
+
+
+2. In the space below, write code to address your question. Use multiple code blocks (add more blocks by adding ```{r}  and ``` lines) to break your code up into pieces if it seems prudent so you're not re-running all the code each time.
+```{r}
+
+```
+
+3. Interpret your output. What has this exploration told us? Where can you go from here?
+
+
+## Investigation 2
+ 
+1. In the space below, break your first question down into smaller steps. Write in pseudo-code and English rather than actual code. 
+
+
+
+2. In the space below, write code to address your question. Use multiple code blocks (add more blocks by adding ```{r}  and ``` lines) to break your code up into pieces if it seems prudent so you're not re-running all the code each time.
+```{r}
+
+```
+
+3. Interpret your output. What has this exploration told us? Where can you go from here?
+
